@@ -1,0 +1,346 @@
+
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    background-color: #EEEAE7;
+    font-family: Verdana, sans-serif;
+}
+
+
+
+header{
+    width: 100%;
+    height: 80px;
+    background: #23376D;
+    color: #fff;
+
+}
+
+
+
+
+
+
+
+
+header nav{
+    font-size: 20px;
+    padding-top: 10px;
+    text-align: right;
+    line-height: 50px;
+    
+}
+
+
+.a2{
+    color: white;
+    text-decoration: none;
+    float: left;
+    
+    margin-left:  0.5%;
+    padding: 14px;
+    transition: all 400ms ease;
+    
+}
+.a2:hover{
+    text-decoration: none;
+    background: #FFF;
+}
+
+
+.LogoKinal{
+    width: 13%;
+    float: left;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+
+
+.Regresar{
+    
+    float: right;
+    width: 12%;
+}
+
+.Face{
+    float: right;
+    width: 4%;
+}
+
+
+.Twitter{
+    float: right;
+    width: 3.0%;
+    margin-right: 0.5%;
+    margin-top: 0.6%;
+
+}
+
+
+
+
+
+
+
+
+.FondoDeImagen{
+
+    background-color: #23376D;
+    margin: 25px;
+    padding: 25px;
+    
+}
+
+
+.ImagenPrincipal{
+    width: 60%;
+    margin-top: 1%;
+
+}
+
+
+.lista{
+
+    text-align: center;
+}
+
+.ImagenSecundaria{
+
+    width: 35%;
+    float: right;
+    margin-right: 2%;
+    margin-top: 1%;
+
+}
+
+
+
+.Vermas{
+    
+    width: 10%;
+    margin-right: 15%;
+    position:absolute; 
+    top:500px; 
+    left:1030px; 
+    visibility:visible
+    
+}
+
+
+.Frase{
+    text-align: center;
+    color: white;
+    position:absolute; 
+    top:600px; 
+    left:890px; 
+    visibility:visible
+}
+
+
+
+.Info{
+
+    background-color: #23376D;
+    margin: 25px;
+    padding: 25px;
+
+}
+
+
+.Trabajo{
+    display: block;
+    margin: auto;
+
+
+}
+
+
+
+
+.Text{
+
+    color: white;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+
+}
+
+.img2{
+    filter: blur(6px);
+        margin-top: 3%;
+}
+
+
+
+.Info2{
+
+    background-color: #23376D;
+    margin: 25px;
+    padding-bottom: 15%;
+
+}
+
+
+
+.Titulojo{
+
+    color: white;
+    text-align: center;
+}
+
+.abc{
+    color: white;
+    float: left;
+    background-color: #28B463;
+    margin: 25px;
+    padding: 25px;
+    margin-left: 8%;
+
+}
+
+
+.Car{
+
+    background-color: #23376D;
+    margin: 25px;
+    padding: 25px;
+}
+
+
+
+
+
+.Creando{
+
+    float: right;
+    width: 30%;
+    margin-right: 50px;
+    margin-top: 50px;
+
+}
+
+
+.Donar{
+    position: absolute;
+    width: 10%;
+    left: 73%;
+    top: 300%;
+    
+}
+
+.Donar :hover{
+    
+}
+
+
+
+
+.Partners{
+    background-color: white;
+    margin: 25px;
+    padding: 25px;
+    padding-bottom: 150px;
+    box-shadow: 0 1px 4px 4px black;
+}
+
+
+.pat{
+    width: 12%;
+    float:left;
+    padding: 1%;
+    margin-left: 45px;
+    transition: transform .2s;
+}
+.pat:hover{
+    transform: scale(1.1);
+}
+
+.pat2{
+    width: 12%;
+    float:left;
+    padding: 1%;
+    margin-top: 2%;
+    margin-left: 45px;
+    transition: transform .2s;
+}
+
+.pat2:hover{
+    transform: scale(1.1);
+}
+
+.pat3{
+    width: 12%;
+    float:left;
+    padding: 1%;
+    margin-top: 3.5%;
+    margin-left: 45px;
+    transition: transform .2s;
+}
+.pat3:hover{
+    transform: scale(1.1);
+}
+.pat4{
+    width: 12%;
+    float:left;
+    padding: 1%;
+    margin-top: 1%;
+    margin-left: 45px;
+    transition: transform .2s;
+}
+.pat4:hover{
+    transform: scale(1.1);
+}
+
+
+.Pie{
+
+    background-color: #23376D;
+    
+    padding: 25px;
+}
+
+
+.direct{
+
+    color: white;
+    text-decoration: none;
+}
+
+.direct :hover{
+
+    color: white;
+    text-decoration: none;
+}
+
+.Lista2{
+    text-decoration: none;
+    color: white;
+    
+}
+
+
+.LogoAbajo{
+
+    float:right;
+    position:absolute;
+    left: 790px;
+    top: 390%;
+}
+
+
+.mejor{
+
+    text-align: center;
+    color: white;
+
+}
